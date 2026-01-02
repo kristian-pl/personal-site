@@ -1,7 +1,0 @@
-[
-  { "name": "France", "continent": "Europe", "lat": 46.2276, "lon": 2.2137 },
-  { "name": "Brazil", "continent": "Americas", "lat": -14.235, "lon": -51.9253 },
-  { "name": "Japan", "continent": "Asia", "lat": 36.2048, "lon": 138.2529 },
-  { "name": "Kenya", "continent": "Africa", "lat": -0.0236, "lon": 37.9062 },
-  { "name": "Australia", "continent": "Oceania", "lat": -25.2744, "lon": 133.7751 }
-]
